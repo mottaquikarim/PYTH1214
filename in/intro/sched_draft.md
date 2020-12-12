@@ -80,18 +80,10 @@ It is recommended that 1-week students complete both learning paths assigned to 
 | 3:30PM ET  | Final Project Workshop              |
 
 
-
-| Day 6 (Select the option for your track)             |
-| ---------------------------------------------------- |
-| [:30] [Summary Kickoff, Data][6-1A]                  |
-| [:30] [Summary Kickoff, Web][6-1B]                   |
-| [2:00] [In-Class: Final Project Workshop, Web][6-1C] |
-| [2:00] [In-Class: Final Project Workshop, Web][6-1D] |
-| [1:00] Lunch                                         |
-| [2:00] [Project Presentations, Data][6-1E]           |
-| [2:00] [Project Presentations, Web][6-1F]            |
-| [:30] [Wrap-up & Celebrations, Data][6-1G]           |
-| [:30] [Wrap-up & Celebrations, Web][6-1H]            |
-| --                                                   |
-| --                                                   |
-| --                                                   |
+| Time       | Day 6: 12/18/20                     |
+| ---------- | ----------------------------------- |
+| 10:00AM ET | Cumulative Review / Final Project Workshop |
+| 10:30AM ET | Final Project Workshop              |
+| 1:00PM ET  | Lunch                               |
+| 2:00PM ET  | Project Presentations               |
+| 3:30PM ET  | *Wrap-up & Celebrations*            |
