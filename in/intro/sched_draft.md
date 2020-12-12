@@ -7,35 +7,50 @@ It is recommended that 1-week students complete both learning paths assigned to 
 | ---------- | -----------------------------  |
 | 10:00AM ET | [🎉Intro](#in/intro/welcome)   |
 | 10:30AM ET | [Basic Data Types](#out/topics/basic_data_types) |
-| 11:30AM ET | [String Formatting]()      |
-| 11:45AM ET | Break                      |
-| 12:00PM ET | [Conditionals](#out/topics/conditionals) |
-| 1:00PM ET  | [Lab #1: Shopping List]()  |
-| 1:15PM ET  | Review Lab #1              |
-| 1:30PM ET  | Lunch                      |
-| 2:30PM ET  | [Lists](#out/topics/lists) |
-| 3:30PM ET  | [Sets & Tuples](#out/topics/lists) |
-| 4:00PM ET  | [Loops](#out/topics/loops) |
+| 11:15AM ET | [String Formatting]()      |
+| 11:30AM ET | [Conditionals](#out/topics/conditionals) |
+| 12:30AM ET | [Lab #1: Shopping List]()  |
+| 12:45PM ET | Review Lab #1              |
+| 1:00PM ET  | Lunch                      |
+| 1:45PM ET  | [Lists](#out/topics/lists) |
+| 3:00PM ET  | [Sets & Tuples](#out/topics/tuples_sets) |
+| 3:30PM ET  | [Loops](#out/topics/loops) |
+| 4:15PM ET  | Break                      |
 | 4:30PM ET  | [Lab #2: ]()       |
-| 5:15PM ET  | Review Lab #2       |
-| 5:45PM ET  | End-of-Day Recap     |
+| 5:00PM ET  | Review Lab #2              |
+| 5:45PM ET  | End-of-Day Recap           |
+
+| Time       | Day 2: 12/15/20                     |
+| ---------- | ----------------------------------- |
+| 10:00AM ET | [Dictionaries](#out/topics/dicts)   |
+| 11:00PM ET | [Lab #3: ]()  |
+| 11:30PM ET | Review Lab #3                       |
+| 12:00AM ET | [Functions](#out/topics/functions)  |
+| 1:00PM ET  | Lunch                               |
+| 2:00PM ET  | 🎉 More on functions! 🎉   |
+| 3:30PM ET  | [Lab #4: ]()                       |
+| 4:30PM ET  | Review Lab #5   |
+| 5:15PM ET  | [Lab #5: ]()   |
+| 5:00PM ET  | End-of-Day Recap                    |
+| 5:45PM ET  | AMA (Ask Me Anything)               |
 
 
-| Day 2: 12/15/20                     |
-| ----------------------------------- |
-| [:30] Day 2 Kickoff                 |
-| [1:30] [Functions][2-1B]            |
-| [:15] Break                         |
-| [:45] [Advanced Arguments][2-1C]    |
-| [1:00] Lunch                        |
-| [1:30] [Lab #2: Control Flow][2-1D] |
-| [:30] [Dictionaries][2-1E]          |
-| [:45] [Sets & Tuples][2-1F]         |
-| [:45] [Classes][2-1G]               |
-| [:15] End-of-Day Recap              |
-|  --                                 |
-
-
+| Time       | Day 3: 12/16/20                     |
+| ---------- | ----------------------------------- |
+| 10:00AM ET | [Classes](#out/topics/classes)      |
+| 10:30AM ET |
+| 11:30AM ET |
+| 11:45AM ET |
+| 12:00PM ET |
+| 1:00PM ET  |
+| 1:15PM ET  |
+| 1:30PM ET  |
+| 2:30PM ET  |
+| 3:30PM ET  |
+| 4:00PM ET  |
+| 4:30PM ET  |
+| 5:15PM ET  |
+| 5:45PM ET  |
 
 | Day 3                                |
 | ------------------------------------ |
