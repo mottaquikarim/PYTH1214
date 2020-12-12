@@ -23,13 +23,13 @@ It is recommended that 1-week students complete both learning paths assigned to 
 | Time       | Day 2: 12/15/20                     |
 | ---------- | ----------------------------------- |
 | 10:00AM ET | [Dictionaries](#out/topics/dicts)   |
-| 11:00PM ET | [Lab #3: ]()  |
-| 11:30PM ET | Review Lab #3                       |
-| 12:00AM ET | [Functions](#out/topics/functions)  |
+| 11:00AM ET | [Lab #3: ]()  |
+| 11:30AM ET | Review Lab #3                       |
+| 12:00PM ET | [Functions](#out/topics/functions)  |
 | 1:00PM ET  | Lunch                               |
-| 2:00PM ET  | 🎉 More on functions! 🎉   |
+| 2:00PM ET  | 🎉 More on functions! 🎉            |
 | 3:30PM ET  | [Lab #4: ]()                       |
-| 4:30PM ET  | Review Lab #5   |
+| 4:30PM ET  | Review Lab #5                       |
 | 5:15PM ET  | [Lab #5: ]()   |
 | 5:00PM ET  | End-of-Day Recap                    |
 | 5:45PM ET  | AMA (Ask Me Anything)               |
@@ -37,9 +37,9 @@ It is recommended that 1-week students complete both learning paths assigned to 
 
 | Time       | Day 3: 12/16/20                     |
 | ---------- | ----------------------------------- |
-| 10:00AM ET | [Classes](#out/topics/classes)      |
-| 10:30AM ET |
-| 11:30AM ET |
+| 10:00AM ET | Cumulative Review & Questions       |
+| 10:30AM ET | [Classes](#out/topics/classes)      |
+| 1:00PM ET  | Lunch                               |
 | 11:45AM ET |
 | 12:00PM ET |
 | 1:00PM ET  |
