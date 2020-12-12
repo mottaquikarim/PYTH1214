@@ -20,6 +20,7 @@ It is recommended that 1-week students complete both learning paths assigned to 
 | 5:00PM ET  | Review Lab #2              |
 | 5:45PM ET  | End-of-Day Recap           |
 
+
 | Time       | Day 2: 12/15/20                     |
 | ---------- | ----------------------------------- |
 | 10:00AM ET | Cumulative Review & Questions       |
@@ -32,40 +33,39 @@ It is recommended that 1-week students complete both learning paths assigned to 
 | 2:30PM ET  | More on functions!                  |
 | 3:30PM ET  | [Lab #4: ]()                        |
 | 4:30PM ET  | Review Lab #4                       |
-| 5:00PM ET  | End-of-Day Recap                    |
-| 5:45PM ET  | AMA (Ask Me Anything)               |
+| 5:00PM ET  | Break                               |
+| 5:15PM ET  | Cumulative Review & Questions       |
 
 
 | Time       | Day 3: 12/16/20                     |
 | ---------- | ----------------------------------- |
+| 10:00AM ET | [Classes](#out/topics/classes)      |
+| 11:30AM ET | Break                               |
+| 11:45AM ET | More on classes!                    |
+| 12:30AM ET | [Lab #5: Build Pandas from Scratch! 🎉 ]() |
+| 1:30PM ET  | Lunch                               |
+| 2:30PM ET  | Review Lab #5                       |
+| 3:00PM ET  | [Foundational Pandas Objects](#out/topics/foundations_pandas_condensed) |
+| 3:30PM ET  | [Accessing Data](#out/topics/accessing_data) |
+| 4:15PM ET  | Break                               |
+| 4:30PM ET  | [Lab #6: Taq's Taqueria]()          |
+| 5:00PM ET  | Review Lab #6                       |
+| 5:30PM ET  | Cumulative Review & Questions       |
+
+
+| Time       | Day 4: 12/17/20                     |
+| ---------- | ----------------------------------- |
 | 10:00AM ET | Cumulative Review & Questions       |
-| 10:30AM ET | [Classes](#out/topics/classes)      |
-| 11:45AM ET | Break                               |
-| 12:00PM ET | More on classes!                    |
-| 1:00PM ET  | Lunch                               |
-| 2:00PM ET  | [Lab #5: Build Pandas from Scratch! 🎉 ]() |
-| 3:30PM ET  | Break                               |
-| 3:45PM ET  | Review Lab #5                       |
-| 4:30PM ET  | [Foundational Pandas Objects](#out/topics/) |
+| 10:20AM ET | [Final Project Details! 🎉](#in/intro/finalproject) |
+| 10:30AM ET | [Data Wrangling](#out/topics/wrangling1) |
+| 11:30AM ET | Break                               |
+| 11:45AM ET | [Data Cleaning](#out/topics/data_cleaning) |
+| 1:30PM ET  | Lunch                               |
+| 2:30PM ET  | [EDA (Exploratory Data Analysis)](#out/topics/eda1) |
+| 3:15PM ET  | Break                               |
+| 3:30PM ET  | [Lab #7.1: Titanic]()  |
+| 4:45PM ET  | Review Lab #7.1                     |
 | 5:30PM ET  | End-of-Day Recap                    |
-
-
-
-| Day 4                                        |
-| -------------------------------------------- |
-| [:30] Day 4 Kickoff                          |
-| [:15] [Intermediate Python Discussion][4-1B] |
-| [:15] Break                                  |
-| [:30] [Intro to Python for Data][5-1B]       |
-| [:30] [Modules & Libraries][4-1E]            |
-| [1:00] Lunch                                 |
-| [1:00] [Pandas 1][5-1C]                      |
-| [:15] Break                                  |
-| [1:15] [Lab #5: Intermediate Python][4-1G]   |
-| [:15] Final Project Discussion               |
-| [:30] End-of-Day Recap                       |
-|  --                                          |
-
 
 
 | Day 5: Data Option                       |
@@ -87,7 +87,7 @@ It is recommended that 1-week students complete both learning paths assigned to 
 
 
 
- | Day 6 (Select the option for your track)             |
+| Day 6 (Select the option for your track)             |
 | ---------------------------------------------------- |
 | [:30] [Summary Kickoff, Data][6-1A]                  |
 | [:30] [Summary Kickoff, Web][6-1B]                   |
