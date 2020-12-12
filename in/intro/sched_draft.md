@@ -16,21 +16,22 @@ It is recommended that 1-week students complete both learning paths assigned to 
 | 3:00PM ET  | [Sets & Tuples](#out/topics/tuples_sets) |
 | 3:30PM ET  | [Loops](#out/topics/loops) |
 | 4:15PM ET  | Break                      |
-| 4:30PM ET  | [Lab #2: ]()       |
+| 4:30PM ET  | [Lab #2: ]()               |
 | 5:00PM ET  | Review Lab #2              |
 | 5:45PM ET  | End-of-Day Recap           |
 
 | Time       | Day 2: 12/15/20                     |
 | ---------- | ----------------------------------- |
-| 10:00AM ET | [Dictionaries](#out/topics/dicts)   |
-| 11:00AM ET | [Lab #3: ]()  |
-| 11:30AM ET | Review Lab #3                       |
-| 12:00PM ET | [Functions](#out/topics/functions)  |
-| 1:00PM ET  | Lunch                               |
-| 2:00PM ET  | 🎉 More on functions! 🎉            |
-| 3:30PM ET  | [Lab #4: ]()                       |
-| 4:30PM ET  | Review Lab #5                       |
-| 5:15PM ET  | [Lab #5: ]()   |
+| 10:00AM ET | Cumulative Review & Questions       |
+| 10:30AM ET | [Dictionaries](#out/topics/dicts)   |
+| 11:30AM ET | [Lab #3: ]()  |
+| 12:00PM ET | Break                               |
+| 12:15PM ET | Review Lab #3                       |
+| 12:30PM ET | [Functions](#out/topics/functions)  |
+| 1:30PM ET  | Lunch                               |
+| 2:30PM ET  | More on functions!                  |
+| 3:30PM ET  | [Lab #4: ]()                        |
+| 4:30PM ET  | Review Lab #4                       |
 | 5:00PM ET  | End-of-Day Recap                    |
 | 5:45PM ET  | AMA (Ask Me Anything)               |
 
@@ -39,33 +40,14 @@ It is recommended that 1-week students complete both learning paths assigned to 
 | ---------- | ----------------------------------- |
 | 10:00AM ET | Cumulative Review & Questions       |
 | 10:30AM ET | [Classes](#out/topics/classes)      |
+| 11:45AM ET | Break                               |
+| 12:00PM ET | More on classes!                    |
 | 1:00PM ET  | Lunch                               |
-| 11:45AM ET |
-| 12:00PM ET |
-| 1:00PM ET  |
-| 1:15PM ET  |
-| 1:30PM ET  |
-| 2:30PM ET  |
-| 3:30PM ET  |
-| 4:00PM ET  |
-| 4:30PM ET  |
-| 5:15PM ET  |
-| 5:45PM ET  |
-
-| Day 3                                |
-| ------------------------------------ |
-| [:30] Day 3 Kickoff                  |
-| [:30] [Inheritance][3-1B]            |
-| [:15] Break                          |
-| [1:30] [Lab #3: OOP][3-1C]           |
-| [:15] Mid-Week Check-in              |
-| [1:00] Lunch                         |
-| [:30] [Variable Scope][3-1D]         |
-| [:15] Break                          |
-| [:45] [Debugging Principles][3-1F]   |
-| [1:00] [Lab #4: Debugging][3-1G]     |
-| [:30] In-class HW/Review Time        |
-| [:30] End-of-Day Recap               |
+| 2:00PM ET  | [Lab #5: Build Pandas from Scratch! 🎉 ]() |
+| 3:30PM ET  | Break                               |
+| 3:45PM ET  | Review Lab #5                       |
+| 4:30PM ET  | [Foundational Pandas Objects](#out/topics/) |
+| 5:30PM ET  | End-of-Day Recap                    |
 
 
 
