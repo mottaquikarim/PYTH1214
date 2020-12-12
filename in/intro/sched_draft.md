@@ -68,22 +68,16 @@ It is recommended that 1-week students complete both learning paths assigned to 
 | 5:30PM ET  | End-of-Day Recap                    |
 
 
-| Day 5: Data Option                       |
-| ---------------------------------------- |
-| [:30] Day 5: Data Kickoff                |
-| [1:00] [Pandas 2][5-1F]                  |
-| [:15] Break                              |
-| [1:00] [Plots and Charts][5-1E]          |
-| [1:00] Lunch                             |
-| [:45] [Pandas Datetime][5-1I]            |
-| [1:00] [Pandas Joins][5-1J]              |
-| [1:15] [Lab #6: Weather Forecast][5-1G]  |
-| [:30] [End-of-Day Recap][5-1H]           |
-| --                                       |
-| --                                       |
-| --                                       |
-
-
+| Time       | Day 5: 12/18/20                     |
+| ---------- | ----------------------------------- |
+| 10:00AM ET | Cumulative Review & Questions       |
+| 10:30AM ET | [Data Visualizations](#out/topics/data_viz) |
+| 11:30AM ET | Break                               |
+| 11:45AM ET | [Lab #7.2: Titanic]()  |
+| 1:30PM ET  | Lunch                               |
+| 2:30PM ET  | Review Lab #7.2                     |
+| 3:00PM ET  | *TBD: Datetime & Joins*             |
+| 3:30PM ET  | Final Project Workshop              |
 
 
 
