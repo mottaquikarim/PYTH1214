@@ -1,31 +1,23 @@
 {
 	"links": [{
 		"name": "Slack",
-		"url": "https://pyth127.slack.com/",
+		"url": "https://pyth1214.slack.com/",
         "desc": "Slack is where all our communication will be. Slack is THE source of truth!"
 	}, {
 		"name": "Zoom",
 		"url": "https://generalassembly.zoom.us/j/91241981679?pwd=L2hTUWJ4YWZpV3dIMUd6eXN3dXhrQT09",
-        "desc": "This is our link to our biweekly zoom meeting"
+        "desc": "This is the link to our zoom meeting"
 	}, {
-        "name": "HW Info",
-        "url": "#in/homework/all_hw",
-        "desc": "Please find homework assignments here"
-    }, {
-        "name": "Submit HW",
-        "url": "https://airtable.com/shrI6aXjPY1fIgD7a",
-        "desc": "Please submit your homework assignments via this form"
-    }, {
         "name": "PSETs",
-        "url": "https://drive.google.com/drive/folders/1Lhh37bM0SOXgt8TnPb4U2R-t_e-XkIyc?usp=sharing",
+        "url": "",
         "desc": "Please access practice sets for in class assignments and homework here."
     }, {
 	"name": "Videos",
-	"url": "https://airtable.com/shrhCj3fAF2QGmMyy",
+	"url": "",
 	"desc": "Screen recordings from lecture"
     }, {
 	"name": "Notes",
-	"url": "https://drive.google.com/drive/folders/1_n2Vk9mymIeoqRDhP-D1Y5iuzZe8qZuC?usp=sharing",
+	"url": "",
 	"desc": "Lecture notes from Taq"
     }]
 }
