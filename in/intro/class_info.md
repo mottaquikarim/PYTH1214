@@ -19,6 +19,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 5:00PM ET  | Review Lab #2              |
 | 5:45PM ET  | End-of-Day Recap           |
 
+<br/><br/><br/>
 
 | Time       | Day 2: 12/15/20                     |
 | ---------- | ----------------------------------- |
@@ -35,6 +36,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 5:00PM ET  | Break                               |
 | 5:15PM ET  | Cumulative Review & Questions       |
 
+<br/><br/><br/>
 
 | Time       | Day 3: 12/16/20                     |
 | ---------- | ----------------------------------- |
@@ -51,6 +53,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 5:00PM ET  | Review Lab #6                       |
 | 5:30PM ET  | Cumulative Review & Questions       |
 
+<br/><br/><br/>
 
 | Time       | Day 4: 12/17/20                     |
 | ---------- | ----------------------------------- |
@@ -66,6 +69,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 4:45PM ET  | Review Lab #7.1                     |
 | 5:30PM ET  | End-of-Day Recap                    |
 
+<br/><br/><br/>
 
 | Time       | Day 5: 12/18/20                     |
 | ---------- | ----------------------------------- |
@@ -78,6 +82,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 3:00PM ET  | *TBD: Datetime & Joins*             |
 | 3:30PM ET  | Final Project Workshop              |
 
+<br/><br/><br/>
 
 | Time       | Day 6: 12/18/20                     |
 | ---------- | ----------------------------------- |
