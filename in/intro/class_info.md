@@ -27,13 +27,13 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | ---------- | ----------------------------------- |
 | 10:00AM ET | Cumulative Review & Questions       |
 | 10:30AM ET | [Dictionaries](#out/topics/dicts)   |
-| 11:30AM ET | [Lab #3: ]()  |
+| 11:30AM ET | Lab #3: *TBD*         |
 | 12:00PM ET | Break                               |
 | 12:15PM ET | Review Lab #3                       |
 | 12:30PM ET | [Functions](#out/topics/functions)  |
 | 1:30PM ET  | Lunch                               |
 | 2:30PM ET  | More on functions!                  |
-| 3:30PM ET  | [Lab #4: ]()                        |
+| 3:30PM ET  | Lab #4: *TBD*                       |
 | 4:30PM ET  | Review Lab #4                       |
 | 5:00PM ET  | Break                               |
 | 5:15PM ET  | Cumulative Review & Questions       |
@@ -45,13 +45,13 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 10:00AM ET | [Classes](#out/topics/classes)      |
 | 11:30AM ET | Break                               |
 | 11:45AM ET | More on classes!                    |
-| 12:30AM ET | [Lab #5: Build Pandas from Scratch! 🎉 ]() |
+| 12:30AM ET | Lab #5: Build Pandas from Scratch! 🎉 |
 | 1:30PM ET  | Lunch                               |
 | 2:30PM ET  | Review Lab #5                       |
 | 3:00PM ET  | [Foundational Pandas Objects](#out/topics/foundations_pandas_condensed) |
 | 3:30PM ET  | [Accessing Data](#out/topics/accessing_data) |
 | 4:15PM ET  | Break                               |
-| 4:30PM ET  | [Lab #6: Taq's Taqueria]()          |
+| 4:30PM ET  | Lab #6: Taq's Taqueria              |
 | 5:00PM ET  | Review Lab #6                       |
 | 5:30PM ET  | Cumulative Review & Questions       |
 
@@ -67,8 +67,8 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 1:30PM ET  | Lunch                               |
 | 2:30PM ET  | [EDA (Exploratory Data Analysis)](#out/topics/eda1) |
 | 3:15PM ET  | Break                               |
-| 3:30PM ET  | [Lab #7.1: Titanic]()  |
-| 4:45PM ET  | Review Lab #7.1                     |
+| 3:30PM ET  | Lab #7: Titanic I                   |
+| 4:45PM ET  | Review Lab #7                       |
 | 5:30PM ET  | End-of-Day Recap                    |
 
 ### Day 5
@@ -78,9 +78,9 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 10:00AM ET | Cumulative Review & Questions       |
 | 10:30AM ET | [Data Visualizations](#out/topics/data_viz) |
 | 11:30AM ET | Break                               |
-| 11:45AM ET | [Lab #7.2: Titanic]()  |
+| 11:45AM ET | Lab #8: Titanic II                  |
 | 1:30PM ET  | Lunch                               |
-| 2:30PM ET  | Review Lab #7.2                     |
+| 2:30PM ET  | Review Lab #8                       |
 | 3:00PM ET  | *TBD: Datetime & Joins*             |
 | 3:30PM ET  | Final Project Workshop              |
 
