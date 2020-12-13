@@ -21,7 +21,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 5:00PM ET  | Review Lab #2              |
 | 5:45PM ET  | End-of-Day Recap           |
 
-[Day 1 Workbook]()
+[Day 1 Workbook](https://colab.research.google.com/drive/1MFEpeex-VWpUXSpx5jx8PORaWDL6VsrO?usp=sharing)
 
 ### Day 2
 
