@@ -91,4 +91,11 @@ Primarily, we will be using **[Colab](https://colab.research.google.com/notebook
 
 It is strongly recommended that you use [Google Chrome](https://www.google.com/chrome/) for this class.
 
+### Notes Organization
+
+At the start of each day, please open a brand new Colab notebook. You will take all your notes in this notebook. I will walk through the content from the site in my own Colab notebook. The webpages about the content are for you to go back and reference later if you wish.
+
+In the daily pset workbook, if you click "View" in the menu and then "Table of Contents", a left-side menu will appear with quick-links to the different sections of your Colab notebook.
+
+
 ## 🧊 Ice Breaker Time!!! 🧊
