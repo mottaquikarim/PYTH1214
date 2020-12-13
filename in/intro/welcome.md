@@ -15,12 +15,7 @@
 
 **We are here to learn Python**.
 
-This website is called: **[https://taq.website/PYTH127](https://taq.website/PYTH1214)** -- please bookmark it! It will serve as your source of truth going forward.
-
-### First Day Survey
-
-🤩🤩
-Tell us about yourself [here]()
+This website is called: **[https://taq.website/PYTH1214](https://taq.website/PYTH1214)** -- please bookmark it! It will serve as your source of truth going forward.
 
 ### Website Walkthrough
 
@@ -59,7 +54,7 @@ The link for attendance check-in will be posted to the *#general* channel in Sla
 
 ### Questions/Feedback
 
-Feedback is a **key** part of this course. At the end of every lecture, we will ask you to fill out an **[exit ticket]()** (also available via the quick links section on class homepage).
+Feedback is a **key** part of this course. At the end of every lecture, we will ask you to fill out an **[exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSctvKG3cChrSVJmgQhOsu-GHmYv5K98qWjLJkOy-vQXBInQNg/viewform)** (also available via the quick links section on class homepage).
 
 Feedback and also questions are paramount to our success as a class and your success in learning to code. Please don't be shy! If you feel comfortable, pleaes ask your question on the Slack *#questions* channel. Otherwise, please DM me directly for specific/personal questions.
 
