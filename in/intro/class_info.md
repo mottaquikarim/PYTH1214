@@ -2,6 +2,8 @@
 
 _Tentative_ schedule. Subject to change based on class pace and comfort level.
 
+### Day 1
+
 | Time       | Day 1: 12/14/20                |
 | ---------- | -----------------------------  |
 | 10:00AM ET | [🎉Intro](#in/intro/welcome)   |
@@ -19,7 +21,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 5:00PM ET  | Review Lab #2              |
 | 5:45PM ET  | End-of-Day Recap           |
 
-<br/><br/><br/>
+### Day 2
 
 | Time       | Day 2: 12/15/20                     |
 | ---------- | ----------------------------------- |
@@ -36,7 +38,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 5:00PM ET  | Break                               |
 | 5:15PM ET  | Cumulative Review & Questions       |
 
-<br/><br/><br/>
+### Day 3
 
 | Time       | Day 3: 12/16/20                     |
 | ---------- | ----------------------------------- |
@@ -53,7 +55,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 5:00PM ET  | Review Lab #6                       |
 | 5:30PM ET  | Cumulative Review & Questions       |
 
-<br/><br/><br/>
+### Day 4
 
 | Time       | Day 4: 12/17/20                     |
 | ---------- | ----------------------------------- |
@@ -69,7 +71,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 4:45PM ET  | Review Lab #7.1                     |
 | 5:30PM ET  | End-of-Day Recap                    |
 
-<br/><br/><br/>
+### Day 5
 
 | Time       | Day 5: 12/18/20                     |
 | ---------- | ----------------------------------- |
@@ -82,7 +84,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 3:00PM ET  | *TBD: Datetime & Joins*             |
 | 3:30PM ET  | Final Project Workshop              |
 
-<br/><br/><br/>
+### Day 6
 
 | Time       | Day 6: 12/18/20                     |
 | ---------- | ----------------------------------- |
@@ -92,7 +94,5 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 2:00PM ET  | Project Presentations               |
 | 3:30PM ET  | *Wrap-up & Celebrations*            |
 
-
-<br/><br/>
 
 ## [Final Project Info](#in/intro/finalproject)
