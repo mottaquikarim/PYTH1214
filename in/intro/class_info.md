@@ -10,14 +10,14 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 10:30AM ET | [Basic Data Types](#out/topics/basic_data_types) |
 | 11:15AM ET | [String Formatting]()      |
 | 11:30AM ET | [Conditionals](#out/topics/conditionals) |
-| 12:30AM ET | [Lab #1: Shopping List]()  |
+| 12:30PM ET | Lab #1: Shopping List I    |
 | 12:45PM ET | Review Lab #1              |
 | 1:00PM ET  | Lunch                      |
 | 1:45PM ET  | [Lists](#out/topics/lists) |
 | 3:00PM ET  | [Sets & Tuples](#out/topics/tuples_sets) |
 | 3:30PM ET  | [Loops](#out/topics/loops) |
 | 4:15PM ET  | Break                      |
-| 4:30PM ET  | [Lab #2: ]()               |
+| 4:30PM ET  | Lab #2: Shopping List II   |
 | 5:00PM ET  | Review Lab #2              |
 | 5:45PM ET  | End-of-Day Recap           |
 
