@@ -9,7 +9,7 @@
         "desc": "This is the link to our zoom meeting"
 	}, {
         "name": "PSETs",
-        "url": "",
+        "url": "https://drive.google.com/drive/folders/1lbppfjePoFMGXPZXXabcvyxkvqTJntEO?usp=sharing",
         "desc": "Please access practice sets for in class assignments and homework here."
     }, {
 	"name": "Videos",
@@ -17,7 +17,7 @@
 	"desc": "Screen recordings from lecture"
     }, {
 	"name": "Notes",
-	"url": "",
+	"url": "https://drive.google.com/drive/folders/1WXgk84PVEIrSaWhwlD8ubInVJvUw2OpO?usp=sharing",
 	"desc": "Lecture notes from Taq"
     }]
 }
