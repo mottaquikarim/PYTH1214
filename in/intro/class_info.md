@@ -86,10 +86,9 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 10:00AM ET | Cumulative Review & Questions       |
 | 10:30AM ET | [Data Visualizations](#out/topics/data_viz) |
 | 11:30AM ET | Break                               |
-| 11:45AM ET | Lab #8: Titanic II                  |
+| 11:45AM ET | Lab #8: Titanic II & III            |
 | 1:30PM ET  | Lunch                               |
 | 2:30PM ET  | Review Lab #8                       |
-| 3:00PM ET  | *TBD: Datetime & Joins*             |
 | 3:30PM ET  | Final Project Workshop              |
 
 Day 5 Workbook continues from Day 4 Workbook
