@@ -77,7 +77,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 4:45PM ET  | Review Lab #7                       |
 | 5:30PM ET  | End-of-Day Recap                    |
 
-[Day 4 Workbook]()
+[Day 4 Workbook](https://colab.research.google.com/drive/1fSKNrI-_Z7MoylyyeHDKO1lsHzwJ-JcZ?usp=sharing)
 
 ### Day 5
 
@@ -92,7 +92,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 3:00PM ET  | *TBD: Datetime & Joins*             |
 | 3:30PM ET  | Final Project Workshop              |
 
-[Day 5 Workbook]()
+Day 5 Workbook continues from Day 4 Workbook
 
 ### Day 6
 
