@@ -29,13 +29,13 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | ---------- | ----------------------------------- |
 | 10:00AM ET | Cumulative Review & Questions       |
 | 10:30AM ET | [Dictionaries](#out/topics/dicts)   |
-| 11:30AM ET | Lab #3: *TBD*         |
+| 11:30AM ET | Lab #3: Shopping List III           |
 | 12:00PM ET | Break                               |
 | 12:15PM ET | Review Lab #3                       |
 | 12:30PM ET | [Functions](#out/topics/functions)  |
 | 1:30PM ET  | Lunch                               |
 | 2:30PM ET  | More on functions!                  |
-| 3:30PM ET  | Lab #4: *TBD*                       |
+| 3:30PM ET  | Lab #4: Shopping List IV            |
 | 4:30PM ET  | Review Lab #4                       |
 | 5:00PM ET  | Break                               |
 | 5:15PM ET  | Cumulative Review & Questions       |
