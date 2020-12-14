@@ -40,7 +40,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 5:00PM ET  | Break                               |
 | 5:15PM ET  | Cumulative Review & Questions       |
 
-[Day 2 Workbook]()
+[Day 2 Workbook](https://colab.research.google.com/drive/1XE5rK4Fy_XWrbK1Ei-w4z8DR-KofuttK#scrollTo=_IvyUuPjNeyb&uniqifier=1)
 
 ### Day 3
 
