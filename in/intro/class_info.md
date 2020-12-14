@@ -59,7 +59,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 5:00PM ET  | Review Lab #6                       |
 | 5:30PM ET  | Cumulative Review & Questions       |
 
-[Day 3 Workbook]()
+[Day 3 Workbook](https://colab.research.google.com/drive/1LkQERUMeBQbdQWXQ4Oh-FVbHAPS8wqL-?usp=sharing)
 
 ### Day 4
 
