@@ -76,8 +76,7 @@ It is recommended that 1-week students complete both learning paths assigned to 
 | 11:45AM ET | [Lab #7.2: Titanic]()  |
 | 1:30PM ET  | Lunch                               |
 | 2:30PM ET  | Review Lab #7.2                     |
-| 3:00PM ET  | *TBD: Datetime & Joins*             |
-| 3:30PM ET  | Final Project Workshop              |
+| 3:00PM ET  | Final Project Workshop              |
 
 
 | Time       | Day 6: 12/18/20                     |
